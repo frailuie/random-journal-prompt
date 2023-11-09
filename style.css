@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    background-color: rgb(255, 247, 247);
+    background-image: url("https://secondcropcreative.com/cinemagraphs/images/birds-on-post.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat';
+}
+
+h1 {
+    justify-content: center;
+    text-align: center;
+    font-weight: 200;
+    font-family: 'Poppins';
+    margin: 20px;
+    padding: 15px;
+    color: #3c4644;
+    background-color: rgba(158, 158, 158, 0.101);
+
+}
+
+#journalPrompt {
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    color: #D0DED8;
+    background-color:#252933d6;
+    padding: 25px;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    font-weight: 100;
+    font-size: 3em;
+}
+
+#button {
+    min-width: 130px;
+    height: 40px;
+    margin: 20px;
+    padding: 5px 10px;
+    top: 40%;
+    left: 43%;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    cursor: pointer;
+    color: #D0DED8;
+    background-color: #252933;
+    border-radius: 20px;
+    border: 2px solid #212529;
+}
+
+#button:hover {
+    background: #e6f0ec;
+    color: #212529
+
+}
+
+footer {
+    background: #212529;
+    color:#e5f4f1;;
+    text-align: center;
+    font-family: 'Petit Formal Script';
+    padding: 8px;
+    margin: 1;
+    font-size: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
